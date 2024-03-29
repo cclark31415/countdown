@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 schedule_recv = "0.1.0"
 clearscreen = "2.0.1"
+rand = "0.8.4"
